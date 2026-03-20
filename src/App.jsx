@@ -1,5 +1,5 @@
 import React from "react";
-import Cube from './components/Cube';
+import Cube from './components/Cube';  
 
 function App() {
   return (
